@@ -1,8 +1,12 @@
 <!-- ![MasterHead](https://camo.githubusercontent.com/5e3babfce4609dcd669a8f2a6d37b47c85486729942c57c5afbfc715f0b5dff7/68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f776562253230646576656c6f706d656e742e676966) -->
+![MasterHead heght="200"](https://jayamwebsolutions.com/img/website.gif)
+
 <h1 align="center">Hi 👋, I'm Monjurul Arif</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<p align="left"> <img align="right" alt="Coding" width="400"  src="https://jayamwebsolutions.com/img/website.gif" alt="monjurularif" /> </p>
+<!-- <p align="left"> <img align="right" alt="Coding" width="500"  src="https://jayamwebsolutions.com/img/website.gif" alt="monjurularif" /> </p> -->
+
+<p align="left"> <img align="right" alt="Coding" width="400"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="monjurularif" /> </p>
 
 - 🔭 I’m currently working on [Ema-John](https://ema-john-react-silver.netlify.app/)
 
