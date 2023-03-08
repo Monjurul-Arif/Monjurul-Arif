@@ -6,7 +6,7 @@
 
 <!-- <p align="left"> <img align="right" alt="Coding" width="500"  src="https://jayamwebsolutions.com/img/website.gif" alt="monjurularif" /> </p> -->
 
-<p align="left"> <img align="right" alt="Coding" width="400"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="monjurularif" /> </p>
+<p align="left"> <img align="right" alt="Coding" width="350"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="monjurularif" /> </p>
 
 - 🔭 I’m currently working on [Ema-John](https://ema-john-react-silver.netlify.app/)
 
