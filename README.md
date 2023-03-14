@@ -10,9 +10,11 @@
 
 <p align="left"> <img align="right" alt="Coding" width="350"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="monjurularif" /> </p>
 
-- 🔭 I’m currently working on [Ema-John](https://ema-john-react-silver.netlify.app/)
+<!-- - 🔭 I’m currently working on [Ema-John](https://ema-john-react-silver.netlify.app/) -->
 
-- 📫 How to reach me **monjurularif@gmail.com**
+My [Portfolio](https://ema-john-react-silver.netlify.app/)
+
+<!-- - 📫 How to reach me **monjurularif@gmail.com** -->
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/11iOMyce4YGGgA94bsyC1oNeSOk-fJPms/view?usp=share_link](https://drive.google.com/file/d/11iOMyce4YGGgA94bsyC1oNeSOk-fJPms/view?usp=share_link)
 
