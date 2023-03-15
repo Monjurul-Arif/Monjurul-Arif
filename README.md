@@ -14,7 +14,7 @@
 
 [<img src="https://github.com/MonjurulArif/MonjurulArif/blob/main/myportfolio.png" width="250"/>](https://github.com/user/repository/subscription)
 
-[<img src="https://drive.google.com/file/d/14r2OD7YJEOJXstwpIcgWQxzAePHxzuuU/view?usp=share_link" width="50" height="40"/>](https://github.com/user/repository/subscription)
+[<img src="https://github.com/MonjurulArif/MonjurulArif/blob/main/myresume.png" width="100" height="60"/>](https://github.com/user/repository/subscription)
 
 <!-- - 🔭 I’m currently working on [Ema-John](https://ema-john-react-silver.netlify.app/) -->
 
