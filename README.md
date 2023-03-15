@@ -12,9 +12,9 @@
 <p>I am a Software Engineer having professional experience in software development. I am skilled in making software using .NET Framework using C# language. Currently I am working on creating web applications using JavaScript library React JS. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.</p>
 
 
-[<img src="https://github.com/MonjurulArif/MonjurulArif/blob/main/myportfolio.png" width="250"/>](https://github.com/user/repository/subscription)
+[<img src="https://github.com/MonjurulArif/MonjurulArif/blob/main/myportfolio.png" width="140" height="60"/>](https://github.com/user/repository/subscription)
 
-[<img src="https://github.com/MonjurulArif/MonjurulArif/blob/main/myresume.png" width="100" height="60"/>](https://github.com/user/repository/subscription)
+[<img src="https://github.com/MonjurulArif/MonjurulArif/blob/main/myresume.png" style="border-radius: 8px;" width="140" height="60"/>](https://github.com/user/repository/subscription)
 
 <!-- - 🔭 I’m currently working on [Ema-John](https://ema-john-react-silver.netlify.app/) -->
 
