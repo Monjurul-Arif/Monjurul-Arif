@@ -69,6 +69,6 @@
 
 
 ### 📊 Stats:
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=monjurularif&show_icons=true&theme=gruvbox" alt="monjurularif" /><img style="padding-left:2px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=monjurularif&theme=gruvbox" alt="monjurularif" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=monjurularif&show_icons=true&theme=gruvbox" alt="monjurularif" /><img style="padding-left:2px" align="center" width="490" src="https://github-readme-streak-stats.herokuapp.com/?user=monjurularif&theme=gruvbox" alt="monjurularif" /></p>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=monjurularif&" alt="monjurularif" /></p> -->
