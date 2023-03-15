@@ -11,16 +11,27 @@
 <p align="left"> <img align="right" alt="Coding" width="350"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="monjurularif" /> </p>
 <p>I am a Software Engineer having professional experience in software development. I am skilled in making software using .NET Framework using C# language. Currently I am working on creating web applications using JavaScript library React JS. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.</p>
 
-[![Button Example]](https://img.shields.io/badge/Title-37a779?style=for-the-badge)
-[Button Example]: https://img.shields.io/badge/Title-37a779?style=for-the-badge
+
+[<img src="https://github.com/MonjurulArif/MonjurulArif/blob/main/myportfolio.png" width="250"/>](https://github.com/user/repository/subscription)
+
+[<img src="https://drive.google.com/file/d/14r2OD7YJEOJXstwpIcgWQxzAePHxzuuU/view?usp=share_link" width="50" height="40"/>](https://github.com/user/repository/subscription)
 
 <!-- - 🔭 I’m currently working on [Ema-John](https://ema-john-react-silver.netlify.app/) -->
 
-My [Portfolio](https://monjurul-arif-portfolio.netlify.app/)
+## My [Portfolio](https://monjurul-arif-portfolio.netlify.app/)
+## My [Resume](https://drive.google.com/file/d/11iOMyce4YGGgA94bsyC1oNeSOk-fJPms/view?usp=share_link)
+
+<button class="button" style="color:red">New</button> 
+
+[<img src="https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png" width="25"/>](https://github.com/user/repository/subscription)
+
+[fork my repository](https://github.com/user/repository/fork)
+
+[![https://img.shields.io/badge/Title-37a779?style=for-the-badge]][Link]
 
 <!-- - 📫 How to reach me **monjurularif@gmail.com** -->
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/11iOMyce4YGGgA94bsyC1oNeSOk-fJPms/view?usp=share_link)
+<!-- - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/11iOMyce4YGGgA94bsyC1oNeSOk-fJPms/view?usp=share_link) -->
 
 <h3 align="left">🤝Connect with me:</h3>
 <p align="left">
