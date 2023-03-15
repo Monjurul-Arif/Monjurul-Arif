@@ -12,14 +12,19 @@
 <p>I am a Software Engineer having professional experience in software development. I am skilled in making software using .NET Framework using C# language. Currently I am working on creating web applications using JavaScript library React JS. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.</p>
 
 
-[<img src="https://github.com/MonjurulArif/MonjurulArif/blob/main/myportfolio.png" width="140" height="60"/>](https://github.com/user/repository/subscription)
 
-[<img src="https://github.com/MonjurulArif/MonjurulArif/blob/main/myresume.png" style="border-radius: 8px;" width="140" height="60"/>](https://github.com/user/repository/subscription)
+[<img align="center" src="https://github.com/MonjurulArif/MonjurulArif/blob/main/myportfolio.png" width="140" height="50"/>](https://monjurul-arif-portfolio-3d.netlify.app/)
+[<img align="center" src="https://github.com/MonjurulArif/MonjurulArif/blob/main/myresume.png" width="140" height="50"/>](https://drive.google.com/file/d/11iOMyce4YGGgA94bsyC1oNeSOk-fJPms/view?usp=share_link)
+
+
+
+
+
 
 <!-- - 🔭 I’m currently working on [Ema-John](https://ema-john-react-silver.netlify.app/) -->
 
-## My [Portfolio](https://monjurul-arif-portfolio.netlify.app/)
-## My [Resume](https://drive.google.com/file/d/11iOMyce4YGGgA94bsyC1oNeSOk-fJPms/view?usp=share_link)
+<!-- ## My [Portfolio](https://monjurul-arif-portfolio.netlify.app/) -->
+<!-- ## My [Resume](https://drive.google.com/file/d/11iOMyce4YGGgA94bsyC1oNeSOk-fJPms/view?usp=share_link) -->
 
 <button class="button" style="color:red">New</button> 
 
