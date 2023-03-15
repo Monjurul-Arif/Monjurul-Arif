@@ -13,12 +13,8 @@
 
 
 
-[<img align="center" src="https://github.com/MonjurulArif/MonjurulArif/blob/main/myportfolio.png" width="140" height="50"/>](https://monjurul-arif-portfolio-3d.netlify.app/)
-[<img align="center" src="https://github.com/MonjurulArif/MonjurulArif/blob/main/myresume.png" width="140" height="50"/>](https://drive.google.com/file/d/11iOMyce4YGGgA94bsyC1oNeSOk-fJPms/view?usp=share_link)
-
-
-
-
+[<img align="left" src="https://github.com/MonjurulArif/MonjurulArif/blob/main/myportfolio.png" width="130" height="40"/>](https://monjurul-arif-portfolio-3d.netlify.app/) 
+[<img align="left" src="https://github.com/MonjurulArif/MonjurulArif/blob/main/myresume.png" width="130" height="40"/>](https://drive.google.com/file/d/11iOMyce4YGGgA94bsyC1oNeSOk-fJPms/view?usp=share_link)
 
 
 <!-- - 🔭 I’m currently working on [Ema-John](https://ema-john-react-silver.netlify.app/) -->
@@ -26,18 +22,17 @@
 <!-- ## My [Portfolio](https://monjurul-arif-portfolio.netlify.app/) -->
 <!-- ## My [Resume](https://drive.google.com/file/d/11iOMyce4YGGgA94bsyC1oNeSOk-fJPms/view?usp=share_link) -->
 
-<button class="button" style="color:red">New</button> 
 
-[<img src="https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png" width="25"/>](https://github.com/user/repository/subscription)
 
-[fork my repository](https://github.com/user/repository/fork)
+<!-- [fork my repository](https://github.com/user/repository/fork) -->
 
-[![https://img.shields.io/badge/Title-37a779?style=for-the-badge]][Link]
+<!-- [![https://img.shields.io/badge/Title-37a779?style=for-the-badge]][Link] -->
 
 <!-- - 📫 How to reach me **monjurularif@gmail.com** -->
 
 <!-- - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/11iOMyce4YGGgA94bsyC1oNeSOk-fJPms/view?usp=share_link) -->
-
+<br/>
+<br/>
 <h3 align="left">🤝Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/monjurularif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="monjurularif" height="30" width="40" /></a>
@@ -73,7 +68,7 @@
 <!-- <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monjurularif&theme=merko&layout=compact&hide_langs_below=1" /></p> -->
 
 
-### 📊 Stats
+### 📊 Stats:
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=monjurularif&show_icons=true&theme=gruvbox" alt="monjurularif" /><img style="padding-left:4px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=monjurularif&theme=gruvbox" alt="monjurularif" /></p>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=monjurularif&" alt="monjurularif" /></p> -->
