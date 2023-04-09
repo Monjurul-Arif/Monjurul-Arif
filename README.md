@@ -3,8 +3,9 @@
 
 <!-- ![MasterHead heght="200"](https://monjurul-arif-portfolio.netlify.app/) -->
 
-<h1 align="left">Hi, 👋 I'm Monjurul Arif</h1>
-## <img src="./assets/waving-hand.webp" width="4%"> My name is Ginny, an aspiring technophile. <img src="./assets/waving-hand.webp" width="4%">
+# Hi there! Welcome to my GitHub Profile! ✨
+
+<h2 align="left"> <img src="./waving-hand.webp" width="4%"> I'm Monjurul Arif, an aspiring technophile.  <img src="./waving-hand.webp" width="4%"> </h2>
 
 
 <!-- <p align="left"> <img align="right" alt="Coding" width="500"  src="https://jayamwebsolutions.com/img/website.gif" alt="monjurularif" /> </p> -->
