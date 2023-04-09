@@ -4,6 +4,7 @@
 <!-- ![MasterHead heght="200"](https://monjurul-arif-portfolio.netlify.app/) -->
 
 <h1 align="left">Hi, 👋 I'm Monjurul Arif</h1>
+## <img src="./assets/waving-hand.webp" width="4%"> My name is Ginny, an aspiring technophile. <img src="./assets/waving-hand.webp" width="4%">
 
 
 <!-- <p align="left"> <img align="right" alt="Coding" width="500"  src="https://jayamwebsolutions.com/img/website.gif" alt="monjurularif" /> </p> -->
@@ -75,4 +76,4 @@
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=monjurularif&" alt="monjurularif" /></p> -->
 
-![Visitors](https://gpvc.arturio.dev/monjurularif)
+![Profile Views](https://gpvc.arturio.dev/monjurularif)
