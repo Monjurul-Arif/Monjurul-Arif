@@ -75,4 +75,4 @@
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=monjurularif&" alt="monjurularif" /></p> -->
 
-![Profile views](https://gpvc.arturio.dev/monjurularif)
+![Visitors](https://gpvc.arturio.dev/monjurularif)
