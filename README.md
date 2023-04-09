@@ -40,7 +40,8 @@
 
 <h3 align="left">💼Technical Skills:</h3>
 📖 I have been learning and exploring these following tools and languages
-
+<br>
+<br>
 <div align="center"> 
     <code><a href="https://www.cprogramming.com/" title="C" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a></code>
 <code><a href="https://www.w3schools.com/cpp/" title="C++" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a></code>
