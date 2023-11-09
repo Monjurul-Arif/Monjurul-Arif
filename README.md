@@ -16,7 +16,7 @@
 
 
 [<img align="left" src="https://github.com/MonjurulArif/MonjurulArif/blob/main/myportfolio.png" width="130" height="40"/>](https://monjurul-arif-portfolio-3d.netlify.app/) 
-[<img align="left" src="https://github.com/MonjurulArif/MonjurulArif/blob/main/myresume.png" width="130" height="40"/>](https://drive.google.com/drive/u/0/folders/1-ot8xXGRq7ZgAUdy8xyvyMW9pAhIITeE)
+[<img align="left" src="https://github.com/MonjurulArif/MonjurulArif/blob/main/myresume.png" width="130" height="40"/>](https://drive.google.com/file/d/1E5AmERMX_4lNcJvTm_56sqcH6M5xE2Gm/view?usp=sharing)
 
 
 <!-- - 🔭 I’m currently working on [Ema-John](https://ema-john-react-silver.netlify.app/) -->
