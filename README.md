@@ -77,4 +77,4 @@
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=monjurularif&" alt="monjurularif" /></p> -->
 
-![Profile Views](https://gpvc.arturio.dev/monjurularif)
+![](https://komarev.com/ghpvc/?username=monjurularif&color=green)
